@@ -1,0 +1,3 @@
+MonitorFolders = "C:/tmp/test1;C:/tmp/test2;C:/tmp/test3" # list monitor folders which files should be deleted if it's expired.
+DeleteExpirationDays = "3" # set days before from now, file will be deleted.
+Scheduler = "@every 1m" # set how offen should check these folder. use : @daily  @hourly or @every 1h30m

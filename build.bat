@@ -1,0 +1,1 @@
+go build -o file-housekeeper.exe ./main.go
